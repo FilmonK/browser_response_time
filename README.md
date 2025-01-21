@@ -1,4 +1,4 @@
-# Visualizing timing of calls captured in Network tab of browser developer tools
+# Visualizing the timing of calls captured in Network tab of browser developer tools
 Small scripts that can be run within the browser's console to get a list of calls and the duration of segments in log and table format, as well as CSV dump.
 https://developer.chrome.com/docs/devtools/network
 
